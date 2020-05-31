@@ -14,4 +14,4 @@
 
 ## correr en linux o macOS
 
-> ./archivo.go
+> ./archivo
